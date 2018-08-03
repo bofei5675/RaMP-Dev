@@ -1,3 +1,7 @@
+# This Repo is no logner maintained. For latest version, please visit [Mathe Lab Repo](https://github.com/Mathelab/RaMP-BackEnd).
+# Click [RaMP server version](http://bmi-rampapp-vd01.bmi.osumc.edu:3838/ramp/) to see the application
+
+
 # RaMP Creation Package #
 
 This repository contains the source code that was used to create RaMP - a Relation database of Metabolic Pathways (https://www.ncbi.nlm.nih.gov/pubmed/29470400).  RaMP is a conglomerate of 4 different databases (Kegg, Reactome, HMDB, and WikiPathways), which includes pathways and annotations for genes and metabolites.  
